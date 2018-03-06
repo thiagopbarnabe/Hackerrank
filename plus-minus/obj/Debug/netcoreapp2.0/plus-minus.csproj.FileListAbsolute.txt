@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\bin\Debug\netcoreapp2.0\plus-minus.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\bin\Debug\netcoreapp2.0\plus-minus.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\bin\Debug\netcoreapp2.0\plus-minus.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\bin\Debug\netcoreapp2.0\plus-minus.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\bin\Debug\netcoreapp2.0\plus-minus.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\obj\Debug\netcoreapp2.0\plus-minus.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\obj\Debug\netcoreapp2.0\plus-minus.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\obj\Debug\netcoreapp2.0\plus-minus.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\obj\Debug\netcoreapp2.0\plus-minus.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\obj\Debug\netcoreapp2.0\plus-minus.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\plus-minus\obj\Debug\netcoreapp2.0\plus-minus.pdb

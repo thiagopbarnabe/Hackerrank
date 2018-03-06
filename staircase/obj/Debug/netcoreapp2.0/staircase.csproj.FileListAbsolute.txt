@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\bin\Debug\netcoreapp2.0\staircase.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\bin\Debug\netcoreapp2.0\staircase.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\bin\Debug\netcoreapp2.0\staircase.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\bin\Debug\netcoreapp2.0\staircase.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\bin\Debug\netcoreapp2.0\staircase.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\obj\Debug\netcoreapp2.0\staircase.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\obj\Debug\netcoreapp2.0\staircase.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\obj\Debug\netcoreapp2.0\staircase.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\obj\Debug\netcoreapp2.0\staircase.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\obj\Debug\netcoreapp2.0\staircase.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\staircase\obj\Debug\netcoreapp2.0\staircase.pdb

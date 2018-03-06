@@ -1,0 +1,10 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\bin\Debug\netcoreapp2.0\mini-max-sum.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\bin\Debug\netcoreapp2.0\mini-max-sum.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\bin\Debug\netcoreapp2.0\mini-max-sum.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\bin\Debug\netcoreapp2.0\mini-max-sum.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\bin\Debug\netcoreapp2.0\mini-max-sum.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\obj\Debug\netcoreapp2.0\mini-max-sum.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\obj\Debug\netcoreapp2.0\mini-max-sum.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\obj\Debug\netcoreapp2.0\mini-max-sum.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\obj\Debug\netcoreapp2.0\mini-max-sum.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\mini-max-sum\obj\Debug\netcoreapp2.0\mini-max-sum.pdb

@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\bin\Debug\netcoreapp2.0\ctci-array-left-rotation.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\bin\Debug\netcoreapp2.0\ctci-array-left-rotation.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\bin\Debug\netcoreapp2.0\ctci-array-left-rotation.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\bin\Debug\netcoreapp2.0\ctci-array-left-rotation.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\bin\Debug\netcoreapp2.0\ctci-array-left-rotation.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\obj\Debug\netcoreapp2.0\ctci-array-left-rotation.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\obj\Debug\netcoreapp2.0\ctci-array-left-rotation.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\obj\Debug\netcoreapp2.0\ctci-array-left-rotation.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\obj\Debug\netcoreapp2.0\ctci-array-left-rotation.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\obj\Debug\netcoreapp2.0\ctci-array-left-rotation.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-array-left-rotation\obj\Debug\netcoreapp2.0\ctci-array-left-rotation.pdb

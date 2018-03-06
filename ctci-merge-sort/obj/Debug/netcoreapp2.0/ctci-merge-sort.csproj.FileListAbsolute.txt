@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\bin\Debug\netcoreapp2.0\ctci-merge-sort.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\bin\Debug\netcoreapp2.0\ctci-merge-sort.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\bin\Debug\netcoreapp2.0\ctci-merge-sort.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\bin\Debug\netcoreapp2.0\ctci-merge-sort.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\bin\Debug\netcoreapp2.0\ctci-merge-sort.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\obj\Debug\netcoreapp2.0\ctci-merge-sort.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\obj\Debug\netcoreapp2.0\ctci-merge-sort.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\obj\Debug\netcoreapp2.0\ctci-merge-sort.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\obj\Debug\netcoreapp2.0\ctci-merge-sort.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\obj\Debug\netcoreapp2.0\ctci-merge-sort.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-merge-sort\obj\Debug\netcoreapp2.0\ctci-merge-sort.pdb

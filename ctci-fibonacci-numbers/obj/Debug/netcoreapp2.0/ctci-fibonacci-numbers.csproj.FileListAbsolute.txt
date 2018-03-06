@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\bin\Debug\netcoreapp2.0\ctci-fibonacci-numbers.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\bin\Debug\netcoreapp2.0\ctci-fibonacci-numbers.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\bin\Debug\netcoreapp2.0\ctci-fibonacci-numbers.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\bin\Debug\netcoreapp2.0\ctci-fibonacci-numbers.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\bin\Debug\netcoreapp2.0\ctci-fibonacci-numbers.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\obj\Debug\netcoreapp2.0\ctci-fibonacci-numbers.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\obj\Debug\netcoreapp2.0\ctci-fibonacci-numbers.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\obj\Debug\netcoreapp2.0\ctci-fibonacci-numbers.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\obj\Debug\netcoreapp2.0\ctci-fibonacci-numbers.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\obj\Debug\netcoreapp2.0\ctci-fibonacci-numbers.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-fibonacci-numbers\obj\Debug\netcoreapp2.0\ctci-fibonacci-numbers.pdb

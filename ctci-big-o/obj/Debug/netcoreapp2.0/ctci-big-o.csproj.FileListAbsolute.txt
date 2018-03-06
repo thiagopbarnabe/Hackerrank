@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\bin\Debug\netcoreapp2.0\ctci-big-o.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\bin\Debug\netcoreapp2.0\ctci-big-o.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\bin\Debug\netcoreapp2.0\ctci-big-o.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\bin\Debug\netcoreapp2.0\ctci-big-o.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\bin\Debug\netcoreapp2.0\ctci-big-o.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\obj\Debug\netcoreapp2.0\ctci-big-o.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\obj\Debug\netcoreapp2.0\ctci-big-o.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\obj\Debug\netcoreapp2.0\ctci-big-o.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\obj\Debug\netcoreapp2.0\ctci-big-o.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\obj\Debug\netcoreapp2.0\ctci-big-o.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-big-o\obj\Debug\netcoreapp2.0\ctci-big-o.pdb

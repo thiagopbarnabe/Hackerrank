@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\bin\Debug\netcoreapp2.0\2d-array.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\bin\Debug\netcoreapp2.0\2d-array.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\bin\Debug\netcoreapp2.0\2d-array.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\bin\Debug\netcoreapp2.0\2d-array.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\bin\Debug\netcoreapp2.0\2d-array.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\obj\Debug\netcoreapp2.0\2d-array.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\obj\Debug\netcoreapp2.0\2d-array.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\obj\Debug\netcoreapp2.0\2d-array.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\obj\Debug\netcoreapp2.0\2d-array.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\obj\Debug\netcoreapp2.0\2d-array.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\2d-array\obj\Debug\netcoreapp2.0\2d-array.pdb

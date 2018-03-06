@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\bin\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\bin\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\bin\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\bin\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\bin\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\obj\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\obj\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\obj\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\obj\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\obj\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-queue-using-two-stacks\obj\Debug\netcoreapp2.0\ctci-queue-using-two-stacks.pdb

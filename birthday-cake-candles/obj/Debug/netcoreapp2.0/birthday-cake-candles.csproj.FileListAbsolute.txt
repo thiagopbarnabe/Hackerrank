@@ -1,0 +1,10 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\bin\Debug\netcoreapp2.0\birthday-cake-candles.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\bin\Debug\netcoreapp2.0\birthday-cake-candles.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\bin\Debug\netcoreapp2.0\birthday-cake-candles.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\bin\Debug\netcoreapp2.0\birthday-cake-candles.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\bin\Debug\netcoreapp2.0\birthday-cake-candles.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\obj\Debug\netcoreapp2.0\birthday-cake-candles.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\obj\Debug\netcoreapp2.0\birthday-cake-candles.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\obj\Debug\netcoreapp2.0\birthday-cake-candles.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\obj\Debug\netcoreapp2.0\birthday-cake-candles.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\birthday-cake-candles\obj\Debug\netcoreapp2.0\birthday-cake-candles.pdb

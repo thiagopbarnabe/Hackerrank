@@ -1,0 +1,10 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\bin\Debug\netcoreapp2.0\time-conversion.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\bin\Debug\netcoreapp2.0\time-conversion.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\bin\Debug\netcoreapp2.0\time-conversion.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\bin\Debug\netcoreapp2.0\time-conversion.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\bin\Debug\netcoreapp2.0\time-conversion.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\obj\Debug\netcoreapp2.0\time-conversion.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\obj\Debug\netcoreapp2.0\time-conversion.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\obj\Debug\netcoreapp2.0\time-conversion.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\obj\Debug\netcoreapp2.0\time-conversion.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\time-conversion\obj\Debug\netcoreapp2.0\time-conversion.pdb

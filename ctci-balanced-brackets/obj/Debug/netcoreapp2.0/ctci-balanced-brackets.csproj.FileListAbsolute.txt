@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\bin\Debug\netcoreapp2.0\ctci-balanced-brackets.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\bin\Debug\netcoreapp2.0\ctci-balanced-brackets.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\bin\Debug\netcoreapp2.0\ctci-balanced-brackets.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\bin\Debug\netcoreapp2.0\ctci-balanced-brackets.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\bin\Debug\netcoreapp2.0\ctci-balanced-brackets.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\obj\Debug\netcoreapp2.0\ctci-balanced-brackets.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\obj\Debug\netcoreapp2.0\ctci-balanced-brackets.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\obj\Debug\netcoreapp2.0\ctci-balanced-brackets.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\obj\Debug\netcoreapp2.0\ctci-balanced-brackets.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\obj\Debug\netcoreapp2.0\ctci-balanced-brackets.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-balanced-brackets\obj\Debug\netcoreapp2.0\ctci-balanced-brackets.pdb

@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\bin\Debug\netcoreapp2.0\ctci-making-anagrams.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\bin\Debug\netcoreapp2.0\ctci-making-anagrams.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\bin\Debug\netcoreapp2.0\ctci-making-anagrams.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\bin\Debug\netcoreapp2.0\ctci-making-anagrams.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\bin\Debug\netcoreapp2.0\ctci-making-anagrams.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\obj\Debug\netcoreapp2.0\ctci-making-anagrams.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\obj\Debug\netcoreapp2.0\ctci-making-anagrams.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\obj\Debug\netcoreapp2.0\ctci-making-anagrams.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\obj\Debug\netcoreapp2.0\ctci-making-anagrams.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\obj\Debug\netcoreapp2.0\ctci-making-anagrams.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-making-anagrams\obj\Debug\netcoreapp2.0\ctci-making-anagrams.pdb

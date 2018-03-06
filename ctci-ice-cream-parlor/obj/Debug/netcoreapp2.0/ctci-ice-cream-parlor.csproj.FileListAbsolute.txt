@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\bin\Debug\netcoreapp2.0\ctci-ice-cream-parlor.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\bin\Debug\netcoreapp2.0\ctci-ice-cream-parlor.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\bin\Debug\netcoreapp2.0\ctci-ice-cream-parlor.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\bin\Debug\netcoreapp2.0\ctci-ice-cream-parlor.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\bin\Debug\netcoreapp2.0\ctci-ice-cream-parlor.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\obj\Debug\netcoreapp2.0\ctci-ice-cream-parlor.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\obj\Debug\netcoreapp2.0\ctci-ice-cream-parlor.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\obj\Debug\netcoreapp2.0\ctci-ice-cream-parlor.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\obj\Debug\netcoreapp2.0\ctci-ice-cream-parlor.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\obj\Debug\netcoreapp2.0\ctci-ice-cream-parlor.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-ice-cream-parlor\obj\Debug\netcoreapp2.0\ctci-ice-cream-parlor.pdb

@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\bin\Debug\netcoreapp2.0\amazon2.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\bin\Debug\netcoreapp2.0\amazon2.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\bin\Debug\netcoreapp2.0\amazon2.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\bin\Debug\netcoreapp2.0\amazon2.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\bin\Debug\netcoreapp2.0\amazon2.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\obj\Debug\netcoreapp2.0\amazon2.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\obj\Debug\netcoreapp2.0\amazon2.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\obj\Debug\netcoreapp2.0\amazon2.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\obj\Debug\netcoreapp2.0\amazon2.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\obj\Debug\netcoreapp2.0\amazon2.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\amazon2\obj\Debug\netcoreapp2.0\amazon2.pdb

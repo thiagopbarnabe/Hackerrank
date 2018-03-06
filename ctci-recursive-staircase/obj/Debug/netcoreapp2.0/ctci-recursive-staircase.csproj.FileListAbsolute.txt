@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\bin\Debug\netcoreapp2.0\ctci-recursive-staircase.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\bin\Debug\netcoreapp2.0\ctci-recursive-staircase.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\bin\Debug\netcoreapp2.0\ctci-recursive-staircase.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\bin\Debug\netcoreapp2.0\ctci-recursive-staircase.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\bin\Debug\netcoreapp2.0\ctci-recursive-staircase.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\obj\Debug\netcoreapp2.0\ctci-recursive-staircase.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\obj\Debug\netcoreapp2.0\ctci-recursive-staircase.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\obj\Debug\netcoreapp2.0\ctci-recursive-staircase.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\obj\Debug\netcoreapp2.0\ctci-recursive-staircase.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\obj\Debug\netcoreapp2.0\ctci-recursive-staircase.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-recursive-staircase\obj\Debug\netcoreapp2.0\ctci-recursive-staircase.pdb

@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\bin\Debug\netcoreapp2.0\dynamic-array.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\bin\Debug\netcoreapp2.0\dynamic-array.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\bin\Debug\netcoreapp2.0\dynamic-array.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\bin\Debug\netcoreapp2.0\dynamic-array.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\bin\Debug\netcoreapp2.0\dynamic-array.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\obj\Debug\netcoreapp2.0\dynamic-array.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\obj\Debug\netcoreapp2.0\dynamic-array.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\obj\Debug\netcoreapp2.0\dynamic-array.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\obj\Debug\netcoreapp2.0\dynamic-array.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\obj\Debug\netcoreapp2.0\dynamic-array.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\dynamic-array\obj\Debug\netcoreapp2.0\dynamic-array.pdb

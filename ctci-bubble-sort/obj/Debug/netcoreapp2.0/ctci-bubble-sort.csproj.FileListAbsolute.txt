@@ -1,0 +1,10 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\bin\Debug\netcoreapp2.0\ctci-bubble-sort.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\bin\Debug\netcoreapp2.0\ctci-bubble-sort.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\bin\Debug\netcoreapp2.0\ctci-bubble-sort.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\bin\Debug\netcoreapp2.0\ctci-bubble-sort.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\bin\Debug\netcoreapp2.0\ctci-bubble-sort.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\obj\Debug\netcoreapp2.0\ctci-bubble-sort.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\obj\Debug\netcoreapp2.0\ctci-bubble-sort.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\obj\Debug\netcoreapp2.0\ctci-bubble-sort.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\obj\Debug\netcoreapp2.0\ctci-bubble-sort.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-bubble-sort\obj\Debug\netcoreapp2.0\ctci-bubble-sort.pdb

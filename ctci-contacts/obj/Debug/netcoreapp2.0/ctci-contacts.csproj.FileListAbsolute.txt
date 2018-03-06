@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\bin\Debug\netcoreapp2.0\ctci-contacts.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\bin\Debug\netcoreapp2.0\ctci-contacts.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\bin\Debug\netcoreapp2.0\ctci-contacts.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\bin\Debug\netcoreapp2.0\ctci-contacts.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\bin\Debug\netcoreapp2.0\ctci-contacts.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\obj\Debug\netcoreapp2.0\ctci-contacts.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\obj\Debug\netcoreapp2.0\ctci-contacts.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\obj\Debug\netcoreapp2.0\ctci-contacts.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\obj\Debug\netcoreapp2.0\ctci-contacts.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\obj\Debug\netcoreapp2.0\ctci-contacts.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-contacts\obj\Debug\netcoreapp2.0\ctci-contacts.pdb

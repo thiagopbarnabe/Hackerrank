@@ -1,0 +1,11 @@
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\bin\Debug\netcoreapp2.0\ctci-find-the-running-median.deps.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\bin\Debug\netcoreapp2.0\ctci-find-the-running-median.runtimeconfig.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\bin\Debug\netcoreapp2.0\ctci-find-the-running-median.runtimeconfig.dev.json
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\bin\Debug\netcoreapp2.0\ctci-find-the-running-median.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\bin\Debug\netcoreapp2.0\ctci-find-the-running-median.pdb
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\obj\Debug\netcoreapp2.0\ctci-find-the-running-median.csprojResolveAssemblyReference.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\obj\Debug\netcoreapp2.0\ctci-find-the-running-median.csproj.CoreCompileInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\obj\Debug\netcoreapp2.0\ctci-find-the-running-median.AssemblyInfoInputs.cache
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\obj\Debug\netcoreapp2.0\ctci-find-the-running-median.AssemblyInfo.cs
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\obj\Debug\netcoreapp2.0\ctci-find-the-running-median.dll
+c:\users\thiago.barnabe\Documents\Source\Hackerrank\ctci-find-the-running-median\obj\Debug\netcoreapp2.0\ctci-find-the-running-median.pdb
